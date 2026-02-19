@@ -1,0 +1,13 @@
+{
+	"file": "https://github.com/aLiceeeee111/selfuse/blob/0566c6bda519fbd9f5a1c9413d42158eb1e103a1/SWH_3_72_UpSet.csv",
+	"name": "SWH_3_72_UpSet",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Gene Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 488 }
+	]
+}
